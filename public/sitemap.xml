@@ -1,96 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://campuspointer.netlify.app/</loc>
+    <loc>https://campus-pointer.pages.dev/</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/calculators</loc>
+    <loc>https://campus-pointer.pages.dev/calculators</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/study-tools</loc>
+    <loc>https://campus-pointer.pages.dev/study-tools</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/student-life</loc>
+    <loc>https://campus-pointer.pages.dev/student-life</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/resources</loc>
+    <loc>https://campus-pointer.pages.dev/resources</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/about</loc>
+    <loc>https://campus-pointer.pages.dev/gpa-calculator</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/contact</loc>
+    <loc>https://campus-pointer.pages.dev/cgpa-calculator</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/privacy</loc>
+    <loc>https://campus-pointer.pages.dev/target-gpa-calculator</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/terms</loc>
+    <loc>https://campus-pointer.pages.dev/grade-calculator</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/gpa-calculator</loc>
+    <loc>https://campus-pointer.pages.dev/percentage-calculator</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/cgpa-calculator</loc>
+    <loc>https://campus-pointer.pages.dev/attendance-calculator</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/target-gpa-calculator</loc>
+    <loc>https://campus-pointer.pages.dev/bunk-calculator</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/grade-calculator</loc>
+    <loc>https://campus-pointer.pages.dev/attendance-goal</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/percentage-calculator</loc>
+    <loc>https://campus-pointer.pages.dev/student-budget</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/attendance-calculator</loc>
+    <loc>https://campus-pointer.pages.dev/allowance-calculator</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/bunk-calculator</loc>
+    <loc>https://campus-pointer.pages.dev/savings-calculator</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/attendance-goal</loc>
+    <loc>https://campus-pointer.pages.dev/study-planner</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/student-budget</loc>
+    <loc>https://campus-pointer.pages.dev/pomodoro-timer</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/allowance-calculator</loc>
+    <loc>https://campus-pointer.pages.dev/exam-countdown</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/savings-calculator</loc>
+    <loc>https://campus-pointer.pages.dev/about</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/study-planner</loc>
+    <loc>https://campus-pointer.pages.dev/contact</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/pomodoro-timer</loc>
+    <loc>https://campus-pointer.pages.dev/privacy</loc>
   </url>
 
   <url>
-    <loc>https://campuspointer.netlify.app/exam-countdown</loc>
+    <loc>https://campus-pointer.pages.dev/terms</loc>
   </url>
+
 </urlset>
