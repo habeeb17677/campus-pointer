@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#F8FAFC"></rect>
+
+  <rect x="70" y="70" width="110" height="110" rx="28" fill="#0F172A"></rect>
+
+  <path d="M95 112L125 97L155 112L125 127L95 112Z" fill="white" stroke="white" stroke-width="4" stroke-linejoin="round"></path>
+
+  <path d="M106 120V139C106 139 114 151 125 151C136 151 144 139 144 139V120" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <path d="M155 112V135" stroke="white" stroke-width="4" stroke-linecap="round"></path>
+
+  <circle cx="155" cy="139" r="3" fill="white"></circle>
+
+  <text x="210" y="145" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">
+    CampusPointer
+  </text>
+
+  <text x="70" y="310" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">
+    Everything students
+  </text>
+
+  <text x="70" y="390" fill="#0F172A" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">
+    need, in one place.
+  </text>
+
+  <text x="70" y="455" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400">
+    GPA • Attendance • Budget • Study Tools • Exam Preparation
+  </text>
+
+  <rect x="70" y="515" width="280" height="58" rx="16" fill="#0F172A"></rect>
+
+  <text x="210" y="552" text-anchor="middle" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">
+    campuspointer.netlify.app
+  </text>
+</svg>
