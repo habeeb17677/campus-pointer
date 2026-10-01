@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 
-const SITE_URL = "https://campuspointer.netlify.app";
+const SITE_URL = "https://campus-pointer.pages.dev";
 
 function SEO({
   title = "CampusPointer — Student Tools",

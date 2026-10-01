@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://campuspointer.netlify.app/sitemap.xml
+Sitemap: https://campus-pointer.pages.dev/sitemap.xml
